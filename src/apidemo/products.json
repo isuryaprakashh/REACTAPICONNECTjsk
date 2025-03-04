@@ -1,0 +1,18 @@
+[
+    {
+        "pid":1000,
+        "pname":"MOBILE",
+        "pcost":1000
+
+    },
+    {
+        "pid":1001,
+        "pname":"TV",
+        "pcost":2000
+    },
+    {
+        "pid":10002,
+        "pname":"LAPTOP",
+        "pcost":30000
+    }
+]

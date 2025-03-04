@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9; /* Light background for the entire page */
+    text-align: center;
+   
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center; /* Center-align the links horizontally */
+    align-items: center; /* Align items vertically in the center */
+    background-color: #ffecd2; /* Soft peach color for the navbar */
+    padding: 1rem; /* Add padding for spacing */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    gap: 1.5rem; /* Space between links */
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333333; /* Dark gray text color for better contrast */
+    font-size: 1rem; /* Readable font size */
+    font-weight: 500; /* Slightly bold for emphasis */
+    padding: 0.5rem 1rem; /* Add padding for clickable area */
+    border-radius: 4px; /* Rounded corners for aesthetics */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+  }
+  
+  .navbar a:hover {
+    background-color: #ffcc80; /* Highlight color on hover */
+    color: #ffffff; /* White text for better visibility */
+  }
+  
+  
+  table{
+    border-collapse: collapse;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+ 
+  }
